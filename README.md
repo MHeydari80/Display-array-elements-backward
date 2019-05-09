@@ -1,2 +1,2 @@
-# Display-array-elements-backward
-Sorting array elements backward in the output console.
+# Sorting an array elements backward
+Displaying an array elements backward in the output console.
